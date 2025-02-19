@@ -6,7 +6,7 @@ This project provides a fundamental CRUD (Create, Read, Update, Delete) API buil
 
 🆕 Create: Insert new products into the database.
 🔍 Read: Access all products or a specific product using its ID.
-✏️ Update: Alter details of an existing product by its ID.
+✏️ Update: Alter details of an existing product by its ID.    
 🗑️ Delete: Remove a product from the database based on its ID.
 
 
